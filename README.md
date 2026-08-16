@@ -1,6 +1,6 @@
 # Restaurant Food Ordering System (RFOS) v1.0
 
-RFOS is a console-based C++17 restaurant ordering application implemented from the SEP401 Software Design Specification.
+RFOS is a console-based C++17 restaurant ordering application.
 
 ## Implemented features
 
@@ -87,19 +87,6 @@ Then run:
 
 ```bash
 ./build/rfos
-```
-
-## GitHub upload
-
-If you create an empty GitHub repository named `RFOS`, from this folder run:
-
-```bash
-git init
-git add .
-git commit -m "Initial RFOS implementation from SDS"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/RFOS.git
-git push -u origin main
 ```
 
 ## Notes
