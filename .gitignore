@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+*.sdf
+*.opensdf
+*.ipch
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.tlog
+*.lastbuildstate
+*.log
+
+# CMake
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+
+# OS
+.DS_Store
+Thumbs.db

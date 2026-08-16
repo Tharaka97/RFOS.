@@ -1,0 +1,11 @@
+RFOS - Visual Studio 2026 setup
+
+This version targets:
+- Platform Toolset: v145 (Visual Studio 2026)
+- C++ Language Standard: ISO C++17
+- Platform: x64
+
+Open RFOS.sln, choose Debug | x64, then Build > Rebuild Solution.
+Run with Ctrl+F5.
+
+If Visual Studio prompts to retarget the Windows SDK, accept the latest installed Windows 10/11 SDK.
